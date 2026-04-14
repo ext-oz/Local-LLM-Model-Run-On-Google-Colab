@@ -2,7 +2,7 @@
 
 > Run a powerful local LLM on a **free T4 GPU** — no paid API, no data leaks, no subscriptions.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/ollama_openwebui_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ext-oz/Local-LLM-Model-Run-On-Google-Colab/blob/main/ollama_openwebui_colab.ipynb)
 ![GPU](https://img.shields.io/badge/GPU-T4%20Free-76b900?logo=nvidia&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-latest-black?logo=ollama)
 ![Open WebUI](https://img.shields.io/badge/Open%20WebUI-latest-4f8ef7)
